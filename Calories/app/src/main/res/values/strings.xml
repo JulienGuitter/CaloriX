@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">CaloriX</string>
+    <string name="calorie">Calorie</string>
+    <string name="btnContentAdd">+</string>
+    <string name="createdDate">Créé le %1$s</string>
+    <string name="nameDefault">Nom Utilisateur</string>
+    <string name="signInNameHint">Entrez votre nom</string>
+    <string name="signIn">Créer le compte</string>
+    <string name="signInImage">Click pour\nChanger\nL\'image</string>
+    <string name="signInImageLoading">Chargement …</string>
+    <string name="selectProfilePicture">Selectionné une image de profile</string>
+    <string name="enterName">Vous devez saisir un nom</string>
+    <string name="deleteAccountBtn">Supprimer mon compte</string>
+
+    <string name="CalculateActivityName">Calculer</string>
+    <string name="ProfileActivityName">Mon compte</string>
+
+    <string name="nav_account">Mon compte</string>
+    <string name="nav_calculate">Calculer Calories</string>
+    <string name="nav_calendar">Calendrier</string>
+    <string name="nav_settings">Réglage</string>
+    <string name="nav_logout">Déconnection</string>
+    <string name="nav_historique">Mon Historique</string>
+    <string name="nav_menu_other">Autre</string>
+
+    <string name="open_drawer">Menu Ouvert</string>
+    <string name="close_drawer">Menu Fermer</string>
+    <string name="CalendarActivityName">Calendrier</string>
+    <string name="HistoriqueActivityName">Historique</string>
+    <string name="genreTitle">Genre</string>
+    <string name="birthdateTitle">Date de naissance</string>
+    <string name="weightTitle">Poids</string>
+    <string name="heightTitle">Taille</string>
+    <string name="mUnit">Mètre</string>
+    <string name="cmUnit">Centimètre</string>
+    <string name="activityTitle">Activité Physique</string>
+    <string name="showTitle">Affichage</string>
+    <string name="resultTitle">Résultat</string>
+    <string name="resDefault">Vous devez cliquer sur le bouton \" Calculer \" pour obtenir un résultat</string>
+    <string name="resCalo">%1$s, vous êtes %2$s. \nVotre dépense de calories journalière est de %3$d Kcal.</string>
+    <string name="btnCalc">Calculez</string>
+    <string name="btnRAZ">RAZ</string>
+    <string name="imgDesc">todo</string>
+    <string name="meterUnit">m</string>
+    <string name="centimeterUnit">cm</string>
+    <string name="kilogramUnit">kg</string>
+    <string name="mr">Monsieur</string>
+    <string name="mrs">Madame</string>
+    <string name="sendentary">Sédentaire</string>
+    <string name="active">Actif</string>
+    <string name="sporty">Sportif</string>
+    <string name="razTitle">Réinitialiser</string>
+    <string name="razMessage">Attention, vous allez réinitialiser les données. Êtes-vous sûr ?</string>
+    <string name="razPositive">OK</string>
+    <string name="razNegative">ANNULER</string>
+    <string name="errorPartage">Veuillez calculer vos calories avant de les partager</string>
+    <string name="messagePartage">Mon calcul de calories est de : %1$d Kcal.</string>
+    <string name="titlePartage">Partager mes calories</string>
+    <string name="resultLine">%1$s : %2$d Kcal, weight : %3$d kg, height : %4$d cm\n</string>
+    <string name="dateError">Date invalide</string>
+    <string name="birthDateError">Veuillez entrer votre date de naissance</string>
+    <string name="weightError">Veuillez entrer votre poids</string>
+    <string name="heightError">Veuillez entrer votre taille</string>
+
+    <string-array name="genreSpinner">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+
+    <string-array name="activitySpinner">
+        <item>Sédentaire</item>
+        <item>Actif</item>
+        <item>Sportif</item>
+    </string-array>
+</resources>

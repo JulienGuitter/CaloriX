@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="strokeColor">#C8C8C8</color>
+    <color name="backColor">#ECF8F6</color>
+    <color name="backColorNight">#333</color>
+    <color name="backColorDay">#ECF8F6</color>
+    <color name="textColor">#000000</color>
+    <color name="main_color">#18534F</color>
+    <color name="second_color">#226D68</color>
+</resources>

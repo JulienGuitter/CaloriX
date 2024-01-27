@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="end">
+
+
+    <Button
+        android:id="@+id/menuEmailButton"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_email"
+        android:text=""
+        android:layout_marginRight="20dp"/>
+
+    <Button
+        android:id="@+id/menuCalendarButton"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_calendar"
+        android:text=""
+        android:layout_marginRight="20dp"/>
+
+</LinearLayout>

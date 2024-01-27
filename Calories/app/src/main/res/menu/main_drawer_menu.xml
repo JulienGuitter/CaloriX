@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_account_settings"
+            android:icon="@drawable/ic_account"
+            android:title="@string/nav_account" />
+
+        <item android:id="@+id/nav_calculate_calories"
+            android:icon="@drawable/ic_calculate"
+            android:title="@string/nav_calculate" />
+
+        <item android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_calendar"
+            android:title="@string/nav_calendar" />
+
+        <item android:id="@+id/nav_historique"
+            android:icon="@drawable/ic_historique"
+            android:title="@string/nav_historique" />
+    </group>
+
+    <item android:title="@string/nav_menu_other">
+        <menu>
+            <item android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/nav_logout" />
+        </menu>
+    </item>
+
+</menu>
